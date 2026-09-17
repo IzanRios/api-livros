@@ -1,4 +1,5 @@
 #Ambiente Virtuais
+,venv/
 venv/
 env/
 #Cache dp Python
